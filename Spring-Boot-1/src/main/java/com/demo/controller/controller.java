@@ -22,6 +22,6 @@ public class controller {
 	}
 	@PostMapping()
 	public String findList() {
-		return "我是gittub 测试数据呀~~~~"
+		return "我是gittub 测试数据呀~~~~  ，， 我是eclipse测试数据呀~~~"
 	}
 }
